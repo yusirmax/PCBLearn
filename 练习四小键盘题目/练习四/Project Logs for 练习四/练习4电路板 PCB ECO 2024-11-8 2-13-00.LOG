@@ -1,0 +1,5 @@
+Added Component: Designator=R5(R0603)
+Added Pin To Net: NetName=D- Pin=R5-1
+Added Pin To Net: NetName=NetR3_2 Pin=R5-2
+Added Member To Class: ClassName=练习4原理图 Member=Component R5 10R
+Added Room: Name=练习4原理图

@@ -1,0 +1,15 @@
+Added Component: Designator=USB1(TYPE-C)
+Added Pin To Net: NetName=GND Pin=USB1-A1
+Added Pin To Net: NetName=+5VIN Pin=USB1-A4
+Added Pin To Net: NetName=USB-D-P Pin=USB1-A6
+Added Pin To Net: NetName=USB-D-N Pin=USB1-A7
+Added Pin To Net: NetName=+5VIN Pin=USB1-A9
+Added Pin To Net: NetName=GND Pin=USB1-A12
+Added Pin To Net: NetName=GND Pin=USB1-B1
+Added Pin To Net: NetName=+5VIN Pin=USB1-B4
+Added Pin To Net: NetName=USB-D-P Pin=USB1-B6
+Added Pin To Net: NetName=USB-D-N Pin=USB1-B7
+Added Pin To Net: NetName=+5VIN Pin=USB1-B9
+Added Pin To Net: NetName=GND Pin=USB1-B12
+Added Member To Class: ClassName=Sheet1 Member=Component USB1 TYPE-C
+Added Room: Name=Sheet1

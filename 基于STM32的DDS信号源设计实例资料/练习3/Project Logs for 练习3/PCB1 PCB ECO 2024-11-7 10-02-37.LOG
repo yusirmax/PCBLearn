@@ -1,0 +1,146 @@
+Change Component Comment : Designator=R5 Old Comment= Res 200 New Comment=Res 200
+Change Component Comment : Designator=R6 Old Comment= Res 200 New Comment=Res 200
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Added Component: Designator=C20(C0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R2(6-0805_N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R3(6-0805_N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R8(6-0805_N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R16(6-0805_N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VCC Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=VCC Pin=C21-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=+5 Pin=R16-1
+Added Pin To Net: NetName=USB-D-P Pin=R16-2
+Added Pin To Net: NetName=OSC-IN Pin=U4-5
+Added Pin To Net: NetName=OSC-OUT Pin=U4-6
+Added Pin To Net: NetName=NRST Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=VCC Pin=U4-9
+Added Pin To Net: NetName=GND Pin=U4-23
+Added Pin To Net: NetName=VCC Pin=U4-24
+Added Pin To Net: NetName=D/C Pin=U4-25
+Added Pin To Net: NetName=SCL Pin=U4-26
+Added Pin To Net: NetName=SDA Pin=U4-27
+Added Pin To Net: NetName=R\E\S\ Pin=U4-28
+Added Pin To Net: NetName=USB-D-N Pin=U4-32
+Added Pin To Net: NetName=USB-D-P Pin=U4-33
+Added Pin To Net: NetName=SDIO Pin=U4-34
+Added Pin To Net: NetName=GND Pin=U4-35
+Added Pin To Net: NetName=VCC Pin=U4-36
+Added Pin To Net: NetName=SCLK Pin=U4-37
+Added Pin To Net: NetName=KEY1 Pin=U4-41
+Added Pin To Net: NetName=KEY2 Pin=U4-42
+Added Pin To Net: NetName=KEY3 Pin=U4-43
+Added Pin To Net: NetName=KEY4 Pin=U4-45
+Added Pin To Net: NetName=KEY5 Pin=U4-46
+Added Pin To Net: NetName=GND Pin=U4-47
+Added Pin To Net: NetName=VCC Pin=U4-48
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=+5 Pin=U6-6
+Added Pin To Net: NetName=SYSCLK Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-10
+Added Pin To Net: NetName=+5 Pin=U6-11
+Added Pin To Net: NetName=FOUT Pin=U6-16
+Added Pin To Net: NetName=+5 Pin=U6-18
+Added Pin To Net: NetName=GND Pin=U6-19
+Added Pin To Net: NetName=IOUTA Pin=U6-21
+Added Pin To Net: NetName=+5 Pin=U6-23
+Added Pin To Net: NetName=GND Pin=U6-24
+Added Pin To Net: NetName=AD9850-D0 Pin=U4-10
+Added Pin To Net: NetName=AD9850-D0 Pin=U6-4
+Added Net: Name=AD9850-D0
+Added Pin To Net: NetName=AD9850-D1 Pin=U4-11
+Added Pin To Net: NetName=AD9850-D1 Pin=U6-3
+Added Net: Name=AD9850-D1
+Added Pin To Net: NetName=AD9850-D2 Pin=U4-12
+Added Pin To Net: NetName=AD9850-D2 Pin=U6-2
+Added Net: Name=AD9850-D2
+Added Pin To Net: NetName=AD9850-D3 Pin=U4-13
+Added Pin To Net: NetName=AD9850-D3 Pin=U6-1
+Added Net: Name=AD9850-D3
+Added Pin To Net: NetName=AD9850-D4 Pin=U4-14
+Added Pin To Net: NetName=AD9850-D4 Pin=U6-28
+Added Net: Name=AD9850-D4
+Added Pin To Net: NetName=AD9850-D5 Pin=U4-15
+Added Pin To Net: NetName=AD9850-D5 Pin=U6-27
+Added Net: Name=AD9850-D5
+Added Pin To Net: NetName=AD9850-D6 Pin=U4-16
+Added Pin To Net: NetName=AD9850-D6 Pin=U6-26
+Added Net: Name=AD9850-D6
+Added Pin To Net: NetName=AD9850-D7 Pin=U4-17
+Added Pin To Net: NetName=AD9850-D7 Pin=U6-25
+Added Net: Name=AD9850-D7
+Added Pin To Net: NetName=D\D\S\R\S\T\ Pin=R3-1
+Added Pin To Net: NetName=D\D\S\R\S\T\ Pin=U4-19
+Added Pin To Net: NetName=D\D\S\R\S\T\ Pin=U6-22
+Added Net: Name=D\D\S\R\S\T\
+Added Pin To Net: NetName=DDSFQUP Pin=U4-21
+Added Pin To Net: NetName=DDSFQUP Pin=U6-8
+Added Net: Name=DDSFQUP
+Added Pin To Net: NetName=DDSWCLK Pin=U4-18
+Added Pin To Net: NetName=DDSWCLK Pin=U6-7
+Added Net: Name=DDSWCLK
+Added Pin To Net: NetName=IOUTB Pin=U6-20
+Added Net: Name=IOUTB
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=U6-14
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U4-20
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U4-44
+Added Net: Name=NetR8_2
+Added Member To Class: ClassName=Sheet1 Member=Component C11 Cap 10K
+Added Member To Class: ClassName=Sheet1 Member=Component C20 104
+Added Member To Class: ClassName=Sheet1 Member=Component C21 104
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R16 10K
+Added Room: Name=Sheet1
